@@ -22,8 +22,8 @@
 - 🤖 Chat GPT: Leveraged this trustworthy tool to rectify mistakes and provide ideas.
 
 📈 **Report Highlights :** 
-Dashboard pages for :
 
+Dashboard pages for :
 - Highlights
 - Batsmen
 - Bowlers
